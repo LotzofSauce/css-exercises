@@ -1,0 +1,20 @@
+ /* styles.css */
+
+ button{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;    
+}
+/* this applys to both buttons */
+
+ .black{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+ }
+/* this applys to the "black" class selector */
+
+ .yellow{
+    background-color: yellow;
+ }
+ /* this applys to the "yellow" class selector */
+ 
